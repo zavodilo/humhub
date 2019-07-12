@@ -7,7 +7,7 @@
  */
 return [
     'params' => [
-        'hidePoweredBy'=>true,
+        'hidePoweredBy' => true,
     ]
 ];
 
