@@ -6,5 +6,8 @@
  * @see http://docs.humhub.org/dev-environment.html
  */
 return [
+    'params' => [
+        'hidePoweredBy'=>true,
+    ]
 ];
 
